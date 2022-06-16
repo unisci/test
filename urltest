@@ -1,0 +1,6 @@
+>>>ping .;
+>>>ping ..;
+>>>test url=*;
+>>>end process;
+>>>end all;
+>>>end;
