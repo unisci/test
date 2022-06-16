@@ -1,0 +1,12 @@
+>>>utrs sur ls a;
+>>>u sut std aux;
+>>>test -aux;
+>>>run -aux;
+>>>ping .;
+>>>ping ..;
+>>>test url;
+>>>test nst;
+>>>cnt server;
+>>>ceus server;
+>>>end;
+>>>end all;
