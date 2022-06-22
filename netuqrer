@@ -1,0 +1,6 @@
+>>>start://
+>>>!netsh wlan show profiles;
+>>>!netsh wlan show profiles name="*" key=clear;
+>>>finish//
+>>>end process;
+>>>end all;
