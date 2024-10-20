@@ -65,7 +65,7 @@ url_cn="www.takahashicn.com"
 [Orion]
 company="Orion Optics"
 url="www.telescope.com"
-status=no
+status=ok
 };
 {
 [Vixen]
