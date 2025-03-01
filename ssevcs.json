@@ -1,0 +1,11 @@
+start ssev_service
+{
+setup aapanel
+setup 1panel
+set basic ev
+setup alist
+setup cloudreve
+};
+end process;
+end all;
+end;
