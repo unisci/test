@@ -57,3 +57,4 @@ ALL=67108863;
 shutdown -s -f -t 10;
 finish};
 end process;
+关闭Windows小组件:gpedit\计算机设置\管理模板\Windows组件\小组件;
