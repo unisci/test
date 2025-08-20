@@ -1,4 +1,4 @@
-#/*binoculars*/
+#Binoculars
 {
 [Swarovski Optik]
 company="Swarovski Optik"
@@ -33,7 +33,7 @@ url="imaging.nikon.com/sport-optics/lineup/"
 status=ok
 url_cn="www.nikon.com.cn/sc_CN/products/categories/sport_optics/binoculars.page"
 }:
-#/*telescope*/
+#Telescope
 {
 [Celestron]
 company="Celestron"
@@ -87,7 +87,68 @@ company="WILLIAM OPTICS"
 url="williamoptics.com"
 status=ok
 };
-#/*software*/
+#Accessoris
+{
+[ZWO]
+company="苏州振旺光电有限公司"
+url="www.zwoastro.cn"
+status=ok
+url_en="zwoasi.com"
+type=ccd
+};
+{
+[QHYCCD]
+company="光速视觉(北京)科技有限公司"
+url="www.qhyccd.cn"
+status=ok
+url_en="www.qhyccd.com"
+type=ccd
+};
+{
+[QSI]
+company="Atik Cameras Limited"
+url="qsimaging.com"
+status=ok
+type=ccd
+};
+{
+[SBIG]
+company="Diffraction Limited"
+url="diffractionlimited.com"
+status=ok
+type=ccd
+};
+{
+[Finger Lakes]
+company="Finger Lakes Instrumentation"
+url="flicamera.com"
+status=ok
+type=ccd
+};
+{
+[PlayerOne]
+company="头号玩家天文科技"
+url="player-one-astronomy.cn"
+status=ok
+url_en="player-one-astronomy.com"
+type=ccd
+};
+{
+[Tele Vue]
+company="Tele Vue Optics"
+url="www.televue.com"
+status=ok
+type=eyepieces
+};
+{
+[Pentax]
+company="リコーイメージング株式会社"
+url="www.ricoh-imaging.co.jp/japan/products/binoculars/eye/"
+status=ok
+url_cn="www.ricoh-imaging.com.cn/china/products/binoculars/eye/"
+type=eyepieces
+};
+#Software
 {
 [TheSkyX]
 company="Software Bisque"
@@ -152,72 +213,48 @@ company="Deepsky Corp."
 url="mikegotka.com/DAS/index.htm"
 status=ok
 };
-#/*tools software*/
+#Tools software
 {
 [EQMOD]
 url="eq-mod.sourceforge.net/downloadindex.html"
 status=ok
 };
-#/*accessoris*/
-start process testccdurl
 {
-[ZWO]
-company="苏州振旺光电有限公司"
-url="www.zwoastro.cn"
+[ASCOM]
+url="www.ascom-standards.org"
 status=ok
-url_en="zwoasi.com"
-type=ccd
 };
 {
-[QHYCCD]
-company="光速视觉(北京)科技有限公司"
-url="www.qhyccd.cn"
+[PHD2]
+url="openphdguiding.org"
 status=ok
-url_en="www.qhyccd.com"
-type=ccd
 };
 {
-[QSI]
-company="Atik Cameras Limited"
-url="qsimaging.com"
+[Observatory]
+url="codeobsession.com/observatory"
 status=ok
-type=ccd
 };
 {
-[SBIG]
-company="Diffraction Limited"
-url="diffractionlimited.com"
+[ALLSKEYE]
+url="www.allskeye.com"
 status=ok
-type=ccd
 };
 {
-[Finger Lakes]
-company="Finger Lakes Instrumentation"
-url="flicamera.com"
+[UFOCapture]
+url="sonotaco.com/soft/e_index.html"
 status=ok
-type=ccd
 };
 {
-[PlayerOne]
-company="头号玩家天文科技"
-url="player-one-astronomy.cn"
+[HandyAVI]
+url="www.azcendant.com"
 status=ok
-url_en="player-one-astronomy.com"
-type=ccd
 };
 {
-[Tele Vue]
-company="Tele Vue Optics"
-url="www.televue.com"
+[FireCapture]
+url="www.firecapture.de"
 status=ok
-type=eyepieces
 };
 {
-[Pentax]
-company="リコーイメージング株式会社"
-url="www.ricoh-imaging.co.jp/japan/products/binoculars/eye/"
-status=ok
-url_cn="www.ricoh-imaging.com.cn/china/products/binoculars/eye/"
-type=eyepieces
+
 };
 
