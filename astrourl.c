@@ -96,7 +96,6 @@ status=ok
 };
 {
 [StarryNight]
-company=""
 url="www.starrynight.com"
 status=ok
 };
@@ -221,3 +220,4 @@ status=ok
 url_cn="www.ricoh-imaging.com.cn/china/products/binoculars/eye/"
 type=eyepieces
 };
+
