@@ -5,3 +5,5 @@ AI Agent SandBox=vndee.github.io/llm-sandbox
 Langfuse=langfuse.com
 Qdrant=qdrant.org.cn/community
 MCP Server=hodelcontextprotocol.io/introduction
+LobeChat=lobehub.com/zh
+小智AI服务端=github.com/xinnan-tech/xiaozhi-esp32-server/
